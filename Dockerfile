@@ -3,4 +3,4 @@ FROM n8nio/n8n:latest
 # Set environment variables for n8n
 ENV N8N_BASIC_AUTH_ACTIVE=true
 ENV N8N_BASIC_AUTH_USER=nauta
-ENV N8N_BASIC_AUTH_PASSWORD='6fp:T,:8Mg2-BL^FV#o
+ENV N8N_BASIC_AUTH_PASSWORD=6fp:T,:8Mg2-BL^FV#o
